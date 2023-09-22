@@ -32,6 +32,14 @@ github_username:  lowizdev
 theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+iconURL: assets/default-icon.png
+
+permalink: :slug
+
+social:
+  github: lowizdev
 
 # Exclude from processing.
 # The following items will not be processed, by default.
