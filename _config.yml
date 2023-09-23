@@ -28,15 +28,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lowizdev
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-leaf
+theme: minima
+#theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 iconURL: assets/default-icon.png
 
-permalink: :slug
+#permalink: :slug
 
 social:
   github: lowizdev
