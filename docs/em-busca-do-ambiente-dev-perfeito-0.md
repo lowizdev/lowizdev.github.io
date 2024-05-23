@@ -34,7 +34,7 @@ Vale citar também que por ser uma especificação, devcontainers não são excl
 
 Para o meu caso de uso parecia bom demais. E realmente era isto.
 
-### INSTALACAO
+### Instalação
 
 Tendo decidido por experimentar os devcontainers, o próximo passo era fazer a instalação, e nisto, fui surpreendido pela simplicidade.
 
@@ -56,7 +56,7 @@ Um ponto já interessante é que poderia ter apontado para qualquer instância d
 
 Ainda sobre as configurações, é possível também escolher extensões preexistentes no VSCode que serão replicadas por padrão em todos ambiente de desenvolvimento criados com devcontainers.
 
-### EXEMPLO
+### Exemplo
 
 Agora partindo para um exemplo prático de uso, em um projeto pessoal que estava para construir e também demonstrando o fluxo de trabalho com devcontainers que adotei por padrão:
 
@@ -105,7 +105,7 @@ Notando novamente que os devcontainers eram uma esspecificação e não são exc
 Este fica pra um futuro post...
 
 
-### REFERENCIAS
+### Referências
 
 https://stackoverflow.com/questions/67432836/can-my-docker-instance-update-as-i-develop-locally
 
